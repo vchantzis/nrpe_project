@@ -49,5 +49,5 @@ template "/etc/nagios/nrpe.cfg" do
 end
 
 execute 'nrpe' do
-  command 'sudo /etc/init.d/nagios-nrpe-server restart'
+  command '/etc/init.d/nagios-nrpe-server restart'
 end
