@@ -1,6 +1,4 @@
-# nrpe_project
-
-TODO: Enter the cookbook description here.
+ nrpe_project
 
 This cookbook was developed to help those that are new to chef get started through a easy to understand video tutorial. It is designed to make the default values of the nrpe.cfg dynamic without adding the complication of implementing additional plugins or other cookbooks. This repository has been created so that those following the tutorial can reference the finished code.
 
