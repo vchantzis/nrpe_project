@@ -4,8 +4,8 @@ This cookbook was developed to help those that are new to chef get started throu
 
 *This cookbook:
  * -Updates Ubuntu
- *-Install NRPE and Nagios plugins using the apt repository
- *-Use a template to write the nrpe.cfg file
- *-Restart the NRPE service
+ * -Install NRPE and Nagios plugins using the apt repository
+ * -Use a template to write the nrpe.cfg file
+ * -Restart the NRPE service
 
 To use this cookbook modify the values of the attributes in the nrpe_project/attributes/default.rb file. These attributes configure the nrpe.cfg. Once the desired values are entered the cookbook is ready to be run.
